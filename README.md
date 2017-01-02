@@ -1,5 +1,7 @@
 # NewsCredibility
 
+Dear Reviewer,
+
 This repository contains the codes of my thesis project and some other documents. I normally do not upload such things here 
 publicly because it is not published yet and we are waiting for a review.
 
